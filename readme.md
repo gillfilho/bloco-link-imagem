@@ -2,6 +2,6 @@
 
 Um timer no estilo vintage, usando HTML, CSS e Javascript.
 
-Para ver ao vivo [clique aqui](#).
+Para ver ao vivo [clique aqui](https://gillfilho.github.io/bloco-link-imagem/).
 
 ![Preview do Projeto](https://github.com/gillfilho/bloco-link-imagem/blob/master/thumb.jpg?raw=true)
