@@ -1,6 +1,6 @@
-# Timer Vintage
+# Bloco com link de imagens
 
-Um timer no estilo vintage, usando HTML, CSS e Javascript.
+Um bloco em duas colunas, responsivo, que abre imagens através do Javascript.
 
 Para ver ao vivo [clique aqui](https://gillfilho.github.io/bloco-link-imagem/).
 
